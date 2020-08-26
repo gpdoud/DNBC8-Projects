@@ -1,0 +1,11 @@
+C:\repos\dnbc8\AsyncTasks\AsyncTasks\bin\Debug\netcoreapp3.1\AsyncTasks.exe
+C:\repos\dnbc8\AsyncTasks\AsyncTasks\bin\Debug\netcoreapp3.1\AsyncTasks.deps.json
+C:\repos\dnbc8\AsyncTasks\AsyncTasks\bin\Debug\netcoreapp3.1\AsyncTasks.runtimeconfig.json
+C:\repos\dnbc8\AsyncTasks\AsyncTasks\bin\Debug\netcoreapp3.1\AsyncTasks.runtimeconfig.dev.json
+C:\repos\dnbc8\AsyncTasks\AsyncTasks\bin\Debug\netcoreapp3.1\AsyncTasks.dll
+C:\repos\dnbc8\AsyncTasks\AsyncTasks\bin\Debug\netcoreapp3.1\AsyncTasks.pdb
+C:\repos\dnbc8\AsyncTasks\AsyncTasks\obj\Debug\netcoreapp3.1\AsyncTasks.csprojAssemblyReference.cache
+C:\repos\dnbc8\AsyncTasks\AsyncTasks\obj\Debug\netcoreapp3.1\AsyncTasks.AssemblyInfoInputs.cache
+C:\repos\dnbc8\AsyncTasks\AsyncTasks\obj\Debug\netcoreapp3.1\AsyncTasks.AssemblyInfo.cs
+C:\repos\dnbc8\AsyncTasks\AsyncTasks\obj\Debug\netcoreapp3.1\AsyncTasks.dll
+C:\repos\dnbc8\AsyncTasks\AsyncTasks\obj\Debug\netcoreapp3.1\AsyncTasks.pdb

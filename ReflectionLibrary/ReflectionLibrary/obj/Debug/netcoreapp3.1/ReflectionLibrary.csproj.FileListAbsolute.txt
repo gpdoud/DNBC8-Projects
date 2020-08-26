@@ -1,0 +1,8 @@
+C:\repos\dnbc8\ReflectionLibrary\ReflectionLibrary\bin\Debug\netcoreapp3.1\ReflectionLibrary.deps.json
+C:\repos\dnbc8\ReflectionLibrary\ReflectionLibrary\bin\Debug\netcoreapp3.1\ReflectionLibrary.dll
+C:\repos\dnbc8\ReflectionLibrary\ReflectionLibrary\bin\Debug\netcoreapp3.1\ReflectionLibrary.pdb
+C:\repos\dnbc8\ReflectionLibrary\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.csprojAssemblyReference.cache
+C:\repos\dnbc8\ReflectionLibrary\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.AssemblyInfoInputs.cache
+C:\repos\dnbc8\ReflectionLibrary\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.AssemblyInfo.cs
+C:\repos\dnbc8\ReflectionLibrary\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.dll
+C:\repos\dnbc8\ReflectionLibrary\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.pdb

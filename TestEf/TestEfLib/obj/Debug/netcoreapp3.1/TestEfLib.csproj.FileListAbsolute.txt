@@ -1,0 +1,10 @@
+C:\repos\dnbc8\TestEf\TestEfLib\bin\Debug\netcoreapp3.1\TestEfLib.deps.json
+C:\repos\dnbc8\TestEf\TestEfLib\bin\Debug\netcoreapp3.1\TestEfLib.dll
+C:\repos\dnbc8\TestEf\TestEfLib\obj\Debug\netcoreapp3.1\TestEfLib.csprojAssemblyReference.cache
+C:\repos\dnbc8\TestEf\TestEfLib\obj\Debug\netcoreapp3.1\TestEfLib.AssemblyInfoInputs.cache
+C:\repos\dnbc8\TestEf\TestEfLib\obj\Debug\netcoreapp3.1\TestEfLib.AssemblyInfo.cs
+C:\repos\dnbc8\TestEf\TestEfLib\bin\Debug\netcoreapp3.1\TestEfLib.runtimeconfig.json
+C:\repos\dnbc8\TestEf\TestEfLib\bin\Debug\netcoreapp3.1\TestEfLib.runtimeconfig.dev.json
+C:\repos\dnbc8\TestEf\TestEfLib\bin\Debug\netcoreapp3.1\TestEfLib.pdb
+C:\repos\dnbc8\TestEf\TestEfLib\obj\Debug\netcoreapp3.1\TestEfLib.dll
+C:\repos\dnbc8\TestEf\TestEfLib\obj\Debug\netcoreapp3.1\TestEfLib.pdb

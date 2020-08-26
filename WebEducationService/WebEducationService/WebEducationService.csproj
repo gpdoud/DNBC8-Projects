@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200305170529_init.cs" />
+    <Compile Remove="Migrations\20200305170529_init.Designer.cs" />
+    <Compile Remove="Migrations\20200305200632_added-student.cs" />
+    <Compile Remove="Migrations\20200305200632_added-student.Designer.cs" />
+    <Compile Remove="Migrations\20200305201040_added-student.cs" />
+    <Compile Remove="Migrations\20200305201040_added-student.Designer.cs" />
+    <Compile Remove="Migrations\20200305210413_added-class-instructor.cs" />
+    <Compile Remove="Migrations\20200305210413_added-class-instructor.Designer.cs" />
+    <Compile Remove="Migrations\20200305210645_added-class-instructor.cs" />
+    <Compile Remove="Migrations\20200305210645_added-class-instructor.Designer.cs" />
+    <Compile Remove="Migrations\20200305211040_added-class-instructor-enrolled.cs" />
+    <Compile Remove="Migrations\20200305211040_added-class-instructor-enrolled.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="3.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+  </ItemGroup>
+
+
+</Project>

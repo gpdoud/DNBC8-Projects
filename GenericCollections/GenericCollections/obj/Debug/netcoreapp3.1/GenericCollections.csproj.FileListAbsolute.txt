@@ -1,0 +1,11 @@
+C:\repos\dnbc8\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.exe
+C:\repos\dnbc8\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.deps.json
+C:\repos\dnbc8\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.runtimeconfig.json
+C:\repos\dnbc8\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.runtimeconfig.dev.json
+C:\repos\dnbc8\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.dll
+C:\repos\dnbc8\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.pdb
+C:\repos\dnbc8\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.csprojAssemblyReference.cache
+C:\repos\dnbc8\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.AssemblyInfoInputs.cache
+C:\repos\dnbc8\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.AssemblyInfo.cs
+C:\repos\dnbc8\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.dll
+C:\repos\dnbc8\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.pdb

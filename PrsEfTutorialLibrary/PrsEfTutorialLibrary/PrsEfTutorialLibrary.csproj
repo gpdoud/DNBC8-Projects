@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="OldModels\**" />
+    <EmbeddedResource Remove="OldModels\**" />
+    <None Remove="OldModels\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200224162331_Init.cs" />
+    <Compile Remove="Migrations\20200224162331_Init.Designer.cs" />
+    <Compile Remove="Migrations\20200224172339_set order description to size 30 and required.cs" />
+    <Compile Remove="Migrations\20200224172339_set order description to size 30 and required.Designer.cs" />
+    <Compile Remove="Migrations\20200224204348_code needs unique index.cs" />
+    <Compile Remove="Migrations\20200224204348_code needs unique index.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="microsoft.entityframeworkcore.proxies" Version="3.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>

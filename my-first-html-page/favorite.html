@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>My favorite</title>
+    <style>
+
+    </style>
+    <script lang="javascript">
+        function clickme() {
+            let ctrl = document.getElementById("txt");
+            ctrl.innerHTML = "<h1>We inserted this string into span</h1>";
+        }
+    </script>
+</head>
+
+<body>
+    <h4>My name is
+        <span style="color:red;">Greg</span>
+    </h4>
+    <h4>My favorite color is
+        <span style="color: green;">green</span></h4>
+    <h4>My favorite number is
+        <span style="color: purple;">8</span></h4>
+    <div>
+        <button onclick="clickme()">Click me!</button>
+        <span id="txt"></span>
+    </div>
+</body>
+
+</html>

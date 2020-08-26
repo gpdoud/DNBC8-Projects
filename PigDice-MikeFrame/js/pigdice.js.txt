@@ -1,0 +1,32 @@
+let wr = 0;
+
+const roll = () => {
+    return Math.floor((Math.random() * 6) + 1);
+}
+
+const play = () => {
+    let score = 0;
+    let die = roll();
+    while(die != 1) {
+        score += die;
+        die = roll();
+    }
+    let ctrl = document.getElementById("game");
+    ctrl.value = score;
+    return score;
+}
+
+const compete = () => {
+    let ctrl = document.getElementById("scores");
+    var highScore = +document.getElementById("highscore").value;
+    let score = play();
+    while(highScore >= score) {
+        ctrl.innerHTML += `<span>${score}, </span>`;
+        if(score > highScore) {
+            highScore = score;
+            alert(`New high score is ${highScore}`);
+            break;
+        }
+        score = play();
+    }
+}

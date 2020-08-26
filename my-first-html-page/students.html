@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script lang="javascript">
+        let objs = [];
+        function add() {
+            let name = document.getElementById("pname").value;
+            let nbr = document.getElementById("pnbr").value;
+            let color = document.getElementById("pcolor").value;
+            let subject = document.getElementById("psubject").value;
+            let json = {
+                jname: name,
+                jnbr: nbr,
+                jcolor: color,
+                jsubject: subject
+            }
+            objs.push(json);
+            console.log(json);
+            display();
+        }
+        function display() {
+            let tbody = document.getElementById("tbody");
+            tbody.innerHTML = "";
+            for(let obj of objs) {
+                // this is a comment
+                let tr = "<tr>";
+                tr += "<td>"+obj.jname+"</td>";
+                tr += "<td>"+obj.jnbr+"</td>";
+                tr += "<td>"+obj.jcolor+"</td>";
+                tr += "<td>"+obj.jsubject+"</td>";
+                tr += "</tr>";
+                tbody.innerHTML += tr;
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Add Students</h1>
+    <input type="text" id="pname" size="10">
+    <input type="text" id="pnbr" size="10">
+    <input type="text" id="pcolor" size="10">
+    <input type="text" id="psubject" size="10">
+    <button onclick="add()">Add</button>
+    <p></p>
+    <table style="width: 50%;border:1px solid silver;">
+        <thead>
+            <tr>
+                <td>Name</td>
+                <td>Number</td>
+                <td>Color</td>
+                <td>Subject</td>
+            </tr>
+        </thead>
+        <tbody id="tbody">
+
+        </tbody>
+    </table>
+</body>
+</html>

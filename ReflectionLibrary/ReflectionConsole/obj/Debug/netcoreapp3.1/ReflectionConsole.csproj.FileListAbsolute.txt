@@ -1,0 +1,11 @@
+C:\repos\dnbc8\ReflectionLibrary\ReflectionConsole\obj\Debug\netcoreapp3.1\ReflectionConsole.csprojAssemblyReference.cache
+C:\repos\dnbc8\ReflectionLibrary\ReflectionConsole\obj\Debug\netcoreapp3.1\ReflectionConsole.AssemblyInfoInputs.cache
+C:\repos\dnbc8\ReflectionLibrary\ReflectionConsole\obj\Debug\netcoreapp3.1\ReflectionConsole.AssemblyInfo.cs
+C:\repos\dnbc8\ReflectionLibrary\ReflectionConsole\bin\Debug\netcoreapp3.1\ReflectionConsole.exe
+C:\repos\dnbc8\ReflectionLibrary\ReflectionConsole\bin\Debug\netcoreapp3.1\ReflectionConsole.deps.json
+C:\repos\dnbc8\ReflectionLibrary\ReflectionConsole\bin\Debug\netcoreapp3.1\ReflectionConsole.runtimeconfig.json
+C:\repos\dnbc8\ReflectionLibrary\ReflectionConsole\bin\Debug\netcoreapp3.1\ReflectionConsole.runtimeconfig.dev.json
+C:\repos\dnbc8\ReflectionLibrary\ReflectionConsole\bin\Debug\netcoreapp3.1\ReflectionConsole.dll
+C:\repos\dnbc8\ReflectionLibrary\ReflectionConsole\bin\Debug\netcoreapp3.1\ReflectionConsole.pdb
+C:\repos\dnbc8\ReflectionLibrary\ReflectionConsole\obj\Debug\netcoreapp3.1\ReflectionConsole.dll
+C:\repos\dnbc8\ReflectionLibrary\ReflectionConsole\obj\Debug\netcoreapp3.1\ReflectionConsole.pdb
